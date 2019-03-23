@@ -17,7 +17,7 @@ Esta es una recopilación de guias que te ayudarán a introducirte a las herrami
 
 Python LEC tambien tiene su version [web](https://sborquez.github.io/)
 
-1. **Introducción y Herramientas Básicas**:
+1. **[Introducción y Herramientas Básicas](https://github.com/sborquez/Python-LEC/blob/master/0.%20Introducci%C3%B3n%20y%20Herramientas%20B%C3%A1sicas.ipynb)**:
 Preparación del laboratorio, guias de estilo y buenas prácticas con Python. Una introducción a las herramientas que se útilizarán.
 2. **Análisis Exploratorio**: Carga, limpia y manipula datos usando pandas, crea visualizaciones informativas con matplolib.
 3. **Vectores y Variables Aleatorias**: Aprende de lo básico a lo avanzado de NumPy. Python para la estadística computacional.
