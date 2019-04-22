@@ -20,8 +20,8 @@ Python LEC tambien tiene su version [web](https://sborquez.github.io/)
 1. **[Introducción y Herramientas Básicas](https://github.com/sborquez/Python-LEC/blob/master/0.%20Introducci%C3%B3n%20y%20Herramientas%20B%C3%A1sicas.ipynb)**:
 Preparación del laboratorio, guias de estilo y buenas prácticas con Python. Una introducción a las herramientas que se útilizarán.
 2. **[Análisis Exploratorio](https://github.com/sborquez/Python-LEC/blob/master/1.%20An%C3%A1lisis%20Exploratorio.ipynb)**: Carga, limpia y manipula datos usando pandas, crea visualizaciones informativas con matplolib.
-3. **Vectores y Variables Aleatorias**: Aprende de lo básico a lo avanzado de NumPy. Python para la estadística computacional.
-4. ...
+3. **[Vectores, Variables Aleatorias y Probabilidad](https://github.com/sborquez/Python-LEC/blob/master/2.%20Vectores,%20Variables%20Aleatorias%20y%20Probabilidad.ipynb)**: Aprende de lo básico a lo avanzado de NumPy. Python para la estadística computacional.
+4. **Distribuciones**
 
 ## Bibliografía
 
