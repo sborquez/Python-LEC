@@ -19,7 +19,7 @@ Esta es una recopilación de guias que te ayudarán a introducirte a las herrami
 Preparación del laboratorio, guias de estilo y buenas prácticas con Python. Una introducción a las herramientas que se útilizarán.
 2. **[Análisis Exploratorio](https://github.com/sborquez/Python-LEC/blob/master/1.%20An%C3%A1lisis%20Exploratorio.ipynb)**: Carga, limpia y manipula datos usando pandas, crea visualizaciones informativas con matplolib.
 3. **[Vectores, Eventos Aleatorios y Probabilidad](https://github.com/sborquez/Python-LEC/blob/master/2.%20Vectores%2C%20Eventos%20Aleatorios%20y%20Probabilidad.ipynb)**: Aprende de lo básico a lo avanzado de NumPy. Python para la estadística computacional.
-4. **[Distribuciones y Variables Aleatorias](https://github.com/sborquez/Python-LEC/blob/master/3.%20Distribuciones%20y%20Variables%20Aleatorias.ipynb)** Pronto
+4. **[Distribuciones y Variables Aleatorias](https://github.com/sborquez/Python-LEC/blob/master/3.%20Distribuciones%20y%20Variables%20Aleatorias.ipynb)**: Utiliza las Variables Aleatorias y Distrubuciones disponibles con el paquete de scipy.
 
 ## Bibliografía
 
