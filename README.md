@@ -9,7 +9,7 @@ Esta es una recopilación de guias que te ayudarán a introducirte a las herrami
   * [numpy](http://www.numpy.org/)
   * [pandas](http://pandas.pydata.org/)
   * [jupyter-notebook](http://jupyter.org/)
-  * [statsmodels](http://statsmodels.sourceforge.net/)
+  * [scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html/)
   * [matplotlib](http://matplotlib.org/)
 * Practique la manipulación de dato y aplique su razonamiento estadístico con casos de la mundo real.
 
