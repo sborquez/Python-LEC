@@ -92,6 +92,10 @@ Mi colección kaggles favoritos.
 
 Fuente: [The Complete Pokemon Dataset](https://www.kaggle.com/rounakbanik/pokemon)
 
+The Complete Pokemon Dataset es un conjunto de datos disponible en la plataforma Kaggle. Este conjunto de datos contiene información sobre Pokemones disponibles hasta la séptima generación.
+
+Esta información abarca desde los nombres, generación, tipos y stats de los diferentes Pokemones, la cual utilizaremos para analizar a las diferentes generaciones de pokemones.
+
 
 Una copia del dataset `The last update was made on 2019.` se encuentra aqui [descarga directa](https://labcomp.cl/~sborquez/datasets/pokemon/pokemon.csv)
 

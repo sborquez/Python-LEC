@@ -21,9 +21,18 @@ Preparación del laboratorio, guias de estilo y buenas prácticas con Python. Un
 3. **[Vectores, Eventos Aleatorios y Probabilidad](https://github.com/sborquez/Python-LEC/blob/master/2.%20Vectores%2C%20Eventos%20Aleatorios%20y%20Probabilidad.ipynb)**: Aprende de lo básico a lo avanzado de NumPy. Python para la estadística computacional.
 4. **[Distribuciones y Variables Aleatorias](https://github.com/sborquez/Python-LEC/blob/master/3.%20Distribuciones%20y%20Variables%20Aleatorias.ipynb)**: Utiliza las Variables Aleatorias y Distrubuciones disponibles con el paquete de scipy.
 
+## Anexos
+
+A. **[Datasets](https://github.com/sborquez/Python-LEC/blob/master/A.%20Datasets.md)**: Colección de distintos datasets.
+
+
 ## Bibliografía
 
 > Toda la documentación de los módulos se encuentra disponible en sus respectivas páginas.
 
 * Python for Data Analysis, 2nd Edition by William McKinney [web](http://shop.oreilly.com/product/0636920050896.do)
+* Think Bayes: Bayesian Statistics in Python, Allen B. Downey · O'Reilly Media [web](https://greenteapress.com/wp/think-bayes/)
+* Think Stats: Exploratory Data Analysis, Allen B. Downey · O'Reilly Media [web](https://greenteapress.com/thinkstats/)
+* Seeing Theory, A visual introduction to probability and statistics. [web](https://seeing-theory.brown.edu/)
 * Kaggle: Your Home For DataScience [web](https://www.kaggle.com)
+
