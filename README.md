@@ -30,7 +30,7 @@ Preparación del laboratorio, guias de estilo y buenas prácticas con Python. Un
 ## Anexos
 
 A. **[Datasets](https://github.com/sborquez/Python-LEC/blob/master/A.%20Datasets.md)**: Colección de distintos datasets.
-
+B. **Algebra Lineal**: Pronto ...
 
 ## Bibliografía
 
