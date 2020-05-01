@@ -13,6 +13,12 @@ Esta es una recopilación de guias que te ayudarán a introducirte a las herrami
   * [matplotlib](http://matplotlib.org/)
 * Practique la manipulación de dato y aplique su razonamiento estadístico con casos de la mundo real.
 
+## Abrir en Google Colab
+
+Puedes abrir una copia directamente con el siguiente link:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sborquez/Python-LEC/blob/master)
+
 ## Contenido
 
 1. **[Introducción y Herramientas Básicas](https://github.com/sborquez/Python-LEC/blob/master/0.%20Introducci%C3%B3n%20y%20Herramientas%20B%C3%A1sicas.ipynb)**:
